@@ -1,5 +1,7 @@
 # screenshot-to-code
 
+Clone of https://github.com/abi/screenshot-to-code
+
 ## 🛠 Getting Started
 
 The app has a React/Vite frontend and a FastAPI backend.
